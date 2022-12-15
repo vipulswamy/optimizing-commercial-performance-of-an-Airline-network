@@ -1,4 +1,4 @@
-# Optimizing-commercial-performance-of-an-US-Airline-network
+# Optimizing commercial performance of an US Airline network
 ### Introduction
 I am working as a Consulting Business Consultant for a Airline consulting company here in Germany, where I was asked to study the use case for a popular American Airline's and its commercial viability for the netwrok's benefits by operating on certain regions of the world
 
